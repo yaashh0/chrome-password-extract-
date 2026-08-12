@@ -24,3 +24,5 @@ py -m pip install -r requirements.txt
 
 # Run the script from your administrator terminal:
 password extract decrypt.py
+```
+<img width="1326" height="800" alt="Screenshot " src="https://github.com/user-attachments/assets/19f1c60d-3c8e-4133-ae6e-7793f9b37259" />
