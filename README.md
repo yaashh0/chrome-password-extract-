@@ -20,7 +20,7 @@ Open your command prompt (`cmd`) or PowerShell **as Administrator** and run the 
 ```powershell
 # Install required dependencies
 py -m pip install PythonForWindows cryptography pycryptodome pywin32
-py -m pip install -r requirements.txt
+
 
 # Run the script from your administrator terminal:
 password extract decrypt.py
