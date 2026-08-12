@@ -21,3 +21,7 @@ Open your command prompt (`cmd`) or PowerShell **as Administrator** and run the 
 
 Run this command to install all required security and Windows interaction libraries:
     py -m pip install -r requirements.txt
+      PythonForWindows==1.0.4
+      cryptography>=41.0.0
+       pycryptodome>=3.19.0
+      pywin32>=306
