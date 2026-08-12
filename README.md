@@ -14,10 +14,8 @@ A Python utility designed to decrypt modern Google Chrome saved passwords encryp
 
 ## Setup & Installation
 
-Open your command prompt (`cmd`) or PowerShell **as Administrator** and run the following commands sequentially:
+Open your command prompt (`cmd`) or PowerShell **as Administrator** and run the following commands sequentially.
 
 
-``powershell
-pip install -r requirements.txt
-
-python -m pip install PythonForWindows cryptography pycryptodome pywin32 
+py -m pip install -r requirements.txt
+python -m pip install PythonForWindows cryptography pycryptodome pywin32
